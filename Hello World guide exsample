@@ -7,7 +7,7 @@ cd repo
 # create a new branch to store any new changes
 git branch my-branch
 
-# switch to that branch (line of development)
+# switch to that branch (line of development);
 git checkout my-branch
 
 # make changes, for example, edit `file1.md` and `file2.md` using the text editor
